@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "India",
+    "capital": "New Delhi",
+    "population": 1429000000,
+    "interestingFacts": "India is the world's largest democracy and has the highest number of post offices in the world."
+  },
+  {
+    "id": 2,
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "population": 339000000,
+    "interestingFacts": "The United States has the world's largest economy and no official national language."
+  },
+  {
+    "id": 3,
+    "name": "China",
+    "capital": "Beijing",
+    "population": 1412000000,
+    "interestingFacts": "China is home to the Great Wall, the longest wall ever built."
+  },
+  {
+    "id": 4,
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": 125000000,
+    "interestingFacts": "Japan has the highest life expectancy and more than 6,800 islands."
+  },
+  {
+    "id": 5,
+    "name": "Germany",
+    "capital": "Berlin",
+    "population": 83000000,
+    "interestingFacts": "Germany is famous for its autobahns, some of which have no speed limits."
+  },
+  {
+    "id": 6,
+    "name": "France",
+    "capital": "Paris",
+    "population": 67000000,
+    "interestingFacts": "France is the most visited country in the world."
+  },
+  {
+    "id": 7,
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": 216000000,
+    "interestingFacts": "Brazil contains the largest rainforest on Earth, the Amazon."
+  },
+  {
+    "id": 8,
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": 26000000,
+    "interestingFacts": "Australia is both a country and a continent with unique wildlife."
+  },
+  {
+    "id": 9,
+    "name": "Canada",
+    "capital": "Ottawa",
+    "population": 40000000,
+    "interestingFacts": "Canada has the longest coastline in the world."
+  },
+  {
+    "id": 10,
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "population": 60000000,
+    "interestingFacts": "South Africa has three capital cities and 11 official languages."
+  }
+]

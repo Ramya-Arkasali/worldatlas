@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "icon": "fa-solid fa-location-dot",
+    "title": "Our Address",
+    "details": "New Delhi, India"
+  },
+  {
+    "id": 2,
+    "icon": "fa-solid fa-phone",
+    "title": "Call Us",
+    "details": "+91 98765 43210"
+  },
+  {
+    "id": 3,
+    "icon": "fa-solid fa-envelope",
+    "title": "Email Us",
+    "details": "support@yourwebsite.com"
+  }
+]
+
